@@ -1,6 +1,9 @@
 import React from 'react'
 
 const Home = () => (
-      <div className="text-xl text-white">Welcome to our Learn Next app</div>
+      <>
+        <h1 className="h1-bold font-space-grotesk">Welcome to our Deutsch app</h1>
+      </>
+
   );
 export default Home
